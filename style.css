@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: red;
+  display: flex;
+  flex-direction: column-reverse;
+}
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline;
+    width: 200px;
+  font-family: 'Oswald', sans-serif;
+  
+}
+
+
+
+h1 {
+  color: white;
+  font-family: Impact, sans-serif;
+}
